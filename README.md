@@ -2,7 +2,8 @@
 Easy daemon setup for katana2x masternode for fresh VPS installation
 this tool is very simple that can handle library for katana coin daemon, compile the daemon and prepare data directory each k2xmn
 and create file runmn.sh
-TODO
+
+##TODO
 open file easykatana.sh 
 change max=NUMBER_YOUR_MN
 eg: max=4 for 4 MN setup
